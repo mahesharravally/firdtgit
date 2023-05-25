@@ -1,0 +1,2 @@
+# firdtgit
+workin with git
